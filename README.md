@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Disease Prediction Using Machine Learning</title>
+  
   
 
   <h1>🧠 Disease Prediction Using Machine Learning</h1>
@@ -126,9 +126,11 @@
 
   <h2>🙋‍♀️ Author & Credits</h2>
   <ul>
-    <li><strong>Author:</strong> Anisha Kumari</li>
-    <li><strong>Email:</strong> anishakr9090@gmail.com</li>
-    <li><strong>Organization:</strong> TechSaksham (AICTE Internship on AI)</li>
+
+- **Author**: [Anisha Kumari](https://github.com/AnishaKumari07246)
+- **Email**: [anishakr9090@gmail.com](mailto:anishakr9090@gmail.com)
+- **Organization**: [TechSaksham (AICTE Internship on AI)](https://techsaksham.org/)
+
   </ul>
 
 </body>
