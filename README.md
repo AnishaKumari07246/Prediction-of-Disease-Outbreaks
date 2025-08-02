@@ -4,47 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Disease Prediction Using Machine Learning</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 40px;
-      background-color: #f9f9f9;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-    }
-    th, td {
-      border: 1px solid #999;
-      padding: 8px;
-      text-align: left;
-    }
-    code {
-      background: #eee;
-      padding: 4px;
-      border-radius: 4px;
-    }
-    .image-section {
-      text-align: center;
-      margin: 30px 0;
-    }
-    .image-section img {
-      max-width: 90%;
-      height: auto;
-      border: 1px solid #ccc;
-    }
-  </style>
-</head>
-<body>
+  
 
   <h1>🧠 Disease Prediction Using Machine Learning</h1>
   <p>A machine learning-based system to predict <strong>Diabetes</strong>, <strong>Heart Disease</strong>, and <strong>Parkinson’s Disease</strong> using medical data and a Streamlit web app.</p>
@@ -141,8 +101,8 @@
   <div class="image-section">
     <h3>📷 Streamlit Dashboard Preview</h3>
     <img src="prediction dashboard.png" alt="Disease Prediction Streamlit App Preview"/>
-    <img src="prediction dashboard2.png" alt="Disease Prediction Streamlit App Preview"/>
     <img src="prediction dashboard1.png" alt="Disease Prediction Streamlit App Preview"/>
+    <img src="prediction dashboard2.png" alt="Disease Prediction Streamlit App Preview"/>
   </div>
 
   <h2 id="results">✅ Results</h2>
